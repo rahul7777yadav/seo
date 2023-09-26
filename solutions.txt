@@ -1,0 +1,91 @@
+Q1. What is SEO and explain the importance of SEO?
+Answer: SEO full form is Search Engine Optimisation. SEO is basically use to optimise your website that helps to imrpove ranking on search engines like google, yahoo, bing, AOl etc. Ranking of website depends on meta keywords which defined in website pages and using this keywords website rank is higher on search engines that help to increase visitor, business and many more things.
+
+**********************************************************************************************************************************************************
+
+Q2. Create an HTML document with appropriate <title> and <meta> tags for SEO optimization. Ensure the title is descriptive and the meta description is concise.
+Answer:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rahul Yadav - Full Stack Developer</title>
+    <meta name="title" content="Rahul Yadav - Full Stack Web Developer">
+    <meta name="description" content="Rahul Yadav - We provide all type of web and mobile solutions in your budget">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="keywords" content="Website Mobile Apps Development Web Solution Application">
+</head>
+<body>
+    
+</body>
+</html>
+
+**********************************************************************************************************************************************************
+
+Q3.What are the Benefits of Using Meta Tags?
+Answer: Benefits are followings:
+    Improved search engine rankings: By including relevant keywords in your meta tags, you can improve the search engine rankings of your web pages and make them more visible to potential customers.
+    Increased click-through rates: A well-written meta description can entice users to click on your website in the search results, which can lead to increased traffic.
+    Better organization: Meta tags can help organize your website and make it easier for search engines to understand the content of your pages.
+    Enhanced user experience: By providing clear and concise information about the content of your web pages, you can improve the user experience and make it easier for users to find what they are looking for.
+    Social Media Sharing: Some Meta tags help to share website/page links on Social Media. They help to show image and content on social media post while share via website.
+
+**********************************************************************************************************************************************************
+
+Q4. Create an HTML document that properly incorporates semantic elements like <header>, <article>,<section>, or <nav> to improve SEO and document structure?
+Answer: 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Semantic Elements</title>
+  </head>
+  <body>
+    <header>
+      <h1>Welcome dear guest</h1>
+      <nav>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about">About Us</a></li>
+          <li><a href="/blogs">Blogs</a></li>
+          <li><a href="/contact">Contact Us</a></li>
+        </ul>
+      </nav>
+    </header>
+    <article>
+      <header>
+        <h2>Heading of Semantic HTML</h2>
+      </header>
+      <section>
+        <h3>Introduction</h3>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum eligendi in modi id, quasi ratione, temporibus, libero quae asperiores eaque officia hic cumque. Quibusdam pariatur nam commodi deserunt fugit quos fugiat a ipsum sunt iure ipsam consequatur ducimus, officia iusto molestiae itaque consectetur facilis velit quis sit. Cupiditate, dolore recusandae!
+        </p>
+      </section>
+    </article>
+    <footer>
+      <p>&copy; 2023 Rahul Yadav. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
+
+**********************************************************************************************************************************************************
+
+Q5.Define Favicon and give an illustrative example?
+Answer: Favicon is an image, that can be see able on browser tabs left side if we added it in our html code under <head> tag and here is the example how to define Favicon in HTML code.
+Example: 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    
+</body>
+</html>
